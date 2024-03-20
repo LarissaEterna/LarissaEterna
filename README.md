@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LarissaEterna
 - 👀 I’m interested in learn more about the programming language Javascript.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ???
+- 💞️ I’m looking to collaborate on (unknown)
 - 📫 How to reach me, email: larissaeterna1914@gmail.com
 - ⚡ Fun fact: i have 16yo
 
